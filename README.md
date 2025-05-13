@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Shakir</h1>
 <h3 align="center">Devops Engineer</h3>
-<P>I'm working in Rayna Tours as Devops Engineer, and also creating Non prod, prod Environment for dev, test, uat. I'm also discovering the latest trends in frontend development.</P>
+<P>I'm working in Rayna Tours as Devops Engineer, Experienced in working with AWS and Azure, with hands-on involvement in deploying and managing cloud infrastructure. Proficient in services like EC2, S3, IAM, VPC (AWS) and Azure VMs, Storage Accounts, and Resource Groups. Skilled in implementing scalable solutions, automating deployments, and ensuring cloud best practices in production environments. I'm also discovering the latest trends in frontend development.</P>
 
 - 💬 Ask me about **Devops** && **AWS, Azure cloud services & Frontend Development**
 
