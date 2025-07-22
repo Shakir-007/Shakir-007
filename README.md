@@ -6,6 +6,9 @@
 
 - 📫 How to reach me **ahmad.shakir.hussain@gmail.com**
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-shakir007)
+   
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
