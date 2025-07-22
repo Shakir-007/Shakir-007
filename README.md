@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Devops** && **AWS, Azure cloud services & Frontend Development**
 
-- 📫 How to reach me **shakir6268@gmail.com**
+- 📫 How to reach me **ahmad.shakir.hussain@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
